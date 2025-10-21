@@ -1,5 +1,5 @@
 Simply puts a health bar above the player's head just like any other mob.
 
-<img width="270" height="270" alt="4277681" src="https://github.com/user-attachments/assets/01db41a2-1597-4ea5-a49d-b977b7016471" />
+<img width="357" height="357" alt="preview" src="https://github.com/user-attachments/assets/e8d239ae-e186-4915-850e-c4f6ec4a5d1d" />
 
 by [Aeyos](https://github.com/Aeyos).
